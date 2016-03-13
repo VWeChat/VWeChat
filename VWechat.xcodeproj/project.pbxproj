@@ -107,8 +107,9 @@
 				9844C1C31C8A9EE100724DB6 /* AppDelegate.h */,
 				9844C1C41C8A9EE100724DB6 /* AppDelegate.m */,
 				9844C1F51C8B30EC00724DB6 /* 3rdParty */,
-				9844C1BF1C8A9EE100724DB6 /* VWechat */,
+				988589BE1C95AE65005A38E8 /* FrameWork */,
 				9844C1BE1C8A9EE100724DB6 /* Products */,
+				9844C1BF1C8A9EE100724DB6 /* VWechat */,
 			);
 			sourceTree = "<group>";
 		};
@@ -236,6 +237,14 @@
 			children = (
 			);
 			path = Manager;
+			sourceTree = "<group>";
+		};
+		988589BE1C95AE65005A38E8 /* FrameWork */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = FrameWork;
+			path = VWechat/FrameWork;
 			sourceTree = "<group>";
 		};
 		989A49771C8C1938004A2CB0 /* Cell */ = {
