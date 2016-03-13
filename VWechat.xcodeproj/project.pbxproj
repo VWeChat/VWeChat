@@ -127,6 +127,7 @@
 				9844C1DA1C8A9F1600724DB6 /* Contact */,
 				9844C1DD1C8A9F1600724DB6 /* Discover */,
 				9844C1E01C8A9F1600724DB6 /* Me */,
+				988589BB1C95A9C1005A38E8 /* Model */,
 				9844C1C01C8A9EE100724DB6 /* Supporting Files */,
 				9844C1E31C8A9F1600724DB6 /* UIBase */,
 				9844C1F61C8B30EC00724DB6 /* UICommon */,
@@ -212,6 +213,29 @@
 				9844C1F81C8BD18300724DB6 /* VUIColor.h */,
 			);
 			path = UICommon;
+			sourceTree = "<group>";
+		};
+		988589BB1C95A9C1005A38E8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				988589BC1C95A9C1005A38E8 /* Entity */,
+				988589BD1C95A9C1005A38E8 /* Manager */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		988589BC1C95A9C1005A38E8 /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
+		988589BD1C95A9C1005A38E8 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Manager;
 			sourceTree = "<group>";
 		};
 		989A49771C8C1938004A2CB0 /* Cell */ = {
